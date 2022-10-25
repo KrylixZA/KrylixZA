@@ -8,3 +8,5 @@ I am a software developer by trade but am a technologist by passion. I love read
 - 🔭 &nbsp;I specialise in migrating legacy products to the cloud while revamping them with cloud-native technologies.
 - 🌱 &nbsp;I’m currently learning [Dapr](https://dapr.io).
 - 💬 &nbsp;Read my blog posts at [Medium.com](https://headleysj.medium.com).
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krylixza&show_icons=true&locale=en" alt="krylixza" /></p>
