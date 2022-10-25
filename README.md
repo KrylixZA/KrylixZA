@@ -1,4 +1,4 @@
-# Howzit, I'm Simon 🇿🇦
+# Howzit, I'm Simon
 
 [![Linkedin: Simon](https://img.shields.io/badge/-headleysj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/headleysj/)](https://www.linkedin.com/in/headleysj/)
 [![GitHub Simon](https://img.shields.io/github/followers/krylixza?label=follow&style=social)](https://github.com/krylixza)
