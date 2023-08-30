@@ -9,7 +9,3 @@ I am a software developer by trade but am a technologist by passion. I love read
 - 📘 &nbsp;I’ve recently learnt [Dapr](https://dapr.io), [Azure Functions](https://azure.microsoft.com/en-us/products/functions/) and [Azure Container Apps](https://azure.microsoft.com/en-us/products/container-apps)
 - 📖 &nbsp;I’m currently learning performance optimisations and (re-learning) Go.
 - 💬 &nbsp;Read my blog posts at [Medium.com](https://headleysj.medium.com).
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krylixza&show_icons=true&locale=en&layout=compact" alt="krylixza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krylixza&show_icons=true&locale=en" alt="krylixza" /></p>
