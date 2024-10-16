@@ -8,5 +8,5 @@ I am a software developer by trade but am a technologist by passion. I love read
 
 - 🔭 &nbsp;I specialise in migrating legacy products to the cloud while revamping them with cloud-native technologies.
 - 📘 &nbsp;I’ve recently learnt [Dapr](https://dapr.io), [Azure Functions](https://azure.microsoft.com/en-us/products/functions/) and [Azure Container Apps](https://azure.microsoft.com/en-us/products/container-apps)
-- 📖 &nbsp;I’m currently learning performance optimisations and (re-learning) Go.
+- 📖 &nbsp;I’m currently re-learning Golang.
 - 💬 &nbsp;Read my blog posts at [Medium.com](https://headleysj.medium.com).
